@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  background: linear-gradient(to right, white lightgray);
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+button {
+  margin: 10px;
+  background-color: lightgray;
+  border: black solid 10 px;
+}
+
+.Admin, .Employee {
+  margin: 20px;
+}
+
+input[type="text"] {
+  margin-right: 10px;
+}
+
+ul,li{
+  list-style-type: none;
+}
